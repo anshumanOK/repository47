@@ -1,1 +1,1 @@
-# repository47
+my personal portpolio website is based on web design and analysing.Modern technologies and AI also used to enhance the skills.It includes sourcecodes,project presentations and many more.
